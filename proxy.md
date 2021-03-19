@@ -34,4 +34,3 @@ Npm代理管理 （当将镜像从企业换到淘宝镜像时：查看代理 => 
     ```
 
 ![image-20210306012525516](/Users/mac/Documents/project/notes/images/proxy.png)
-
