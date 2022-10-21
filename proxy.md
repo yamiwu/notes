@@ -18,6 +18,8 @@ Npm代理管理 （当将镜像从企业换到淘宝镜像时：查看代理 => 
 - 取消代理
   - npm set http_proxy=
   - npm set https_proxy=
+  - git config --global --unset http.proxy
+  - git config --global --unset https.proxy
 
 - Npm 更换为淘宝镜像源
 
